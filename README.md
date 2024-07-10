@@ -1,2 +1,2 @@
 # Gestión de Inventario
-Es un proyecto que parte de la necesidad de cambiar la forma de hacer el inventariado manualmente con papel y lapiz.  
+Este proyecto de gestión de inventario, desarrollado en C++ con Visual Studio y MySQL, busca modernizar y optimizar el proceso de inventariado, reemplazando el método manual tradicional por una solución digital eficiente y precisa.
