@@ -4,5 +4,5 @@ Este proyecto de gestión de inventario, desarrollado en Visual Studio con C++ y
 ## Tecnologias Utilizadas:
 - C++ como lenguaje principal
 - Visual Studio como entorno de desarrollo
-• MySQL para la gestión de base de datos
-• OpenCV
+- MySQL para la gestión de base de datos
+- OpenCV
