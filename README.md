@@ -1,1 +1,1 @@
-# Gestion de Inventario
+# Gestión de Inventario
