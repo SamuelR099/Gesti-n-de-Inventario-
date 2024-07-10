@@ -7,4 +7,4 @@ Este proyecto de gestión de inventario, desarrollado en Visual Studio con C++ y
 - MySQL para la gestión de base de datos
 - OpenCV para la lectura de codigos QR y toma de fotografias 
 
-## Como Ejecutarlo 
+## Instalación
