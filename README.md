@@ -5,4 +5,4 @@ Este proyecto de gestión de inventario, desarrollado en Visual Studio con C++ y
 - C++ como lenguaje principal
 - Visual Studio como entorno de desarrollo
 - MySQL para la gestión de base de datos
-- OpenCV
+- OpenCV para la lectura de codigos QR y toma de fotografias 
