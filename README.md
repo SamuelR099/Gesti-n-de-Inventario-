@@ -1,6 +1,10 @@
 # Gestión de Inventario
 <div align="center">
-  <a href="https://ibb.co/zbKQMyd"><img src="https://i.ibb.co/bLpQ0St/9982625e-d4bd-4d69-bee8-40754bf5f345.jpg" alt="9982625e-d4bd-4d69-bee8-40754bf5f345" border="0"></a>
+ <a href="https://ibb.co/zbKQMyd">
+  <img src="https://i.ibb.co/bLpQ0St/9982625e-d4bd-4d69-bee8-40754bf5f345.jpg" 
+       alt="9982625e-d4bd-4d69-bee8-40754bf5f345" 
+       width="50%">
+</a>
    
 </div>
 
