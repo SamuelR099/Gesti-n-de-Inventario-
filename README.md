@@ -2,7 +2,11 @@
 Este proyecto de gestión de inventario, desarrollado en Visual Studio con C++ y MySQL, busca renovar y optimizar el proceso de inventariado, reemplazando el método manual tradicional por una solución digital eficiente y precisa.
 
 Caracteristicas Principales:
-
+- Actualización del Stock
+- Registro de hora y fecha en tiempo real
+- Lectura con Codigos Qr de los productos
+- Toma de Evidencias y registro de observaciones..
+   
 
 ## Tecnologias Utilizadas
 - C++ como lenguaje principal
