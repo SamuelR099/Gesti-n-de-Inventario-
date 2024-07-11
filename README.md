@@ -1,4 +1,10 @@
 # Gestión de Inventario
+<div align="center">
+  <a href="https://ibb.co/zbKQMyd"><img src="https://i.ibb.co/bLpQ0St/9982625e-d4bd-4d69-bee8-40754bf5f345.jpg" alt="9982625e-d4bd-4d69-bee8-40754bf5f345" border="0"></a>
+   
+</div>
+
+# Gestión de Inventario
 Este proyecto de gestión de inventario, desarrollado en Visual Studio con C++ y MySQL, busca renovar y optimizar el proceso de inventariado, reemplazando el método manual tradicional por una solución digital eficiente y precisa.
 
 Caracteristicas Principales:
