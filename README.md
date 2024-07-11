@@ -11,4 +11,7 @@ Caracteristicas Principales:
 - OpenCV para la lectura de codigos QR y toma de fotografias 
 
 ## Instalación
-El codigo se encuentra en formato .xsl para ejecutarlo en visual studio o en su defecto en formato .cpp para Dev c++.
+- El codigo se encuentra en formato .xsl para visual studio o en su defecto en formato .cpp para Dev c++.
+- Para ejecutarlo puedes usar los compiladores g++, gcc, cl, clang.
+- Necesitaras instalar las siguientes librerias: OpenCV, MySQL Connector C++ 8.3
+- Instalar el software MySQL Server 8.3 (su trabajo es almacenar, organizar y gestionar tus datos. Actúa como el servidor de base de datos al que tu aplicación se conectará).
