@@ -8,7 +8,8 @@ Caracteristicas Principales:
 - C++ como lenguaje principal
 - Visual Studio como entorno de desarrollo
 - MySQL para la gestión de base de datos
-- OpenCV para la lectura de codigos QR y toma de fotografias 
+- OpenCV para la lectura de codigos QR y toma de fotografias
+- MySQL Workbench o PhpAdmin para la visualizacion de los datos
 
 ## Instalación
 - El codigo se encuentra en formato .xsl para visual studio o en su defecto en formato .cpp para Dev c++.
