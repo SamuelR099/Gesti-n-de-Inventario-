@@ -11,3 +11,4 @@ Caracteristicas Principales:
 - OpenCV para la lectura de codigos QR y toma de fotografias 
 
 ## Instalación
+El codigo se encuentra en formato .xsl para ejecutarlo en visual studio o en su defecto en formato .cpp para Dev c++.
